@@ -18,6 +18,13 @@ express is install with npm i
 
 ## Usage 
 To run this locally: install dependencies then start server with "node index.js"
+![Homepage](./assests/noteTakerHome.png)
+![Note Taker](./assests/noteTaker.png)
+![Adding Note](./assests/noteTakerAdding.png)
+Notice the save button rendered top right
+![Saving](./assests/noteTakerSave.png)
+![Deleting](./assests/noteTakerDelete.png)
+Delete any note
 
 ## License
 This project is licensed under the MIT license.
